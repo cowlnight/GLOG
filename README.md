@@ -9,7 +9,7 @@ GLOG Note
 ## Needs
 
 When I am working on a QT project , a program for designing the pattern users need, it will have some bugs that I can't figure out which line or which function cause. So I want to add some logging in my program.
-What I need is a **simple, lite and fast** logging tool. Then I choose GLOG from goole. Of course, others may recommand more useful and more powerful tools like BOOST, but that is not suit me.
+What I need is a **simple, lite and fast** logging tool. Then I choose GLOG from google. Of course, others may recommand more useful and more powerful tools like BOOST, but that is not suit me.
 
 ## Environment
 
