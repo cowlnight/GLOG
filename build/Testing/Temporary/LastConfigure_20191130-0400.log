@@ -1,0 +1,5 @@
+-- Selecting Windows SDK version 10.0.17763.0 to target Windows 10.0.18362.
+-- Could NOT find Unwind (missing: Unwind_INCLUDE_DIR Unwind_LIBRARY Unwind_PLATFORM_LIBRARY) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/840/Downloads/glog-master/glog-master/build2

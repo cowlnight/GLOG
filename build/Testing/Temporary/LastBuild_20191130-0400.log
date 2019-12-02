@@ -1,0 +1,18 @@
+Microsoft (R) Build Engine for .NET Framework 15.9.21+g9802d43bc3 版
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+  demangle.cc
+C:\Users\840\Downloads\glog-master\glog-master\src\demangle.cc : fatal error C1041: cannot open program database 'C:\Users\840\Downloads\glog-master\glog-master\build2\glog.dir\Debug\glog.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [C:\Users\840\Downloads\glog-master\glog-master\build2\glog.vcxproj]
+  logging.cc
+C:\Users\840\Downloads\glog-master\glog-master\src\logging.cc : fatal error C1041: cannot open program database 'C:\Users\840\Downloads\glog-master\glog-master\build2\glog.dir\Debug\glog.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [C:\Users\840\Downloads\glog-master\glog-master\build2\glog.vcxproj]
+  raw_logging.cc
+C:\Users\840\Downloads\glog-master\glog-master\src\raw_logging.cc : fatal error C1041: cannot open program database 'C:\Users\840\Downloads\glog-master\glog-master\build2\glog.dir\Debug\glog.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [C:\Users\840\Downloads\glog-master\glog-master\build2\glog.vcxproj]
+  symbolize.cc
+C:\Users\840\Downloads\glog-master\glog-master\src\symbolize.cc : fatal error C1041: cannot open program database 'C:\Users\840\Downloads\glog-master\glog-master\build2\glog.dir\Debug\glog.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [C:\Users\840\Downloads\glog-master\glog-master\build2\glog.vcxproj]
+  utilities.cc
+C:\Users\840\Downloads\glog-master\glog-master\src\utilities.cc : fatal error C1041: cannot open program database 'C:\Users\840\Downloads\glog-master\glog-master\build2\glog.dir\Debug\glog.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [C:\Users\840\Downloads\glog-master\glog-master\build2\glog.vcxproj]
+  vlog_is_on.cc
+C:\Users\840\Downloads\glog-master\glog-master\src\vlog_is_on.cc : fatal error C1041: cannot open program database 'C:\Users\840\Downloads\glog-master\glog-master\build2\glog.dir\Debug\glog.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [C:\Users\840\Downloads\glog-master\glog-master\build2\glog.vcxproj]
+  signalhandler.cc
+C:\Users\840\Downloads\glog-master\glog-master\src\signalhandler.cc : fatal error C1041: cannot open program database 'C:\Users\840\Downloads\glog-master\glog-master\build2\glog.dir\Debug\glog.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [C:\Users\840\Downloads\glog-master\glog-master\build2\glog.vcxproj]
+  Generating Code...

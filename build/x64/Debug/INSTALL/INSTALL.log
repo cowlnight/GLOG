@@ -1,0 +1,13 @@
+﻿  -- Install configuration: "Debug"
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/glogd.lib
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/include/glog/logging.h
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/include/glog/raw_logging.h
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/include/glog/stl_logging.h
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/include/glog/vlog_is_on.h
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/include/glog/log_severity.h
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/pkgconfig/libglog.pc
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/cmake/glog/glog-modules.cmake
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/cmake/glog/glog-config.cmake
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/cmake/glog/glog-config-version.cmake
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/cmake/glog/glog-targets.cmake
+  -- Installing: C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/cmake/glog/glog-targets-debug.cmake

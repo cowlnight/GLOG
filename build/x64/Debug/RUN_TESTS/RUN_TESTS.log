@@ -1,0 +1,42 @@
+﻿  Test project C:/Users/840/Downloads/glog-master/glog-master/build2
+        Start  1: demangle
+   1/10 Test  #1: demangle .........................   Passed    0.07 sec
+        Start  2: logging
+   2/10 Test  #2: logging ..........................   Passed    0.48 sec
+        Start  3: signalhandler
+   3/10 Test  #3: signalhandler ....................   Passed    0.04 sec
+        Start  4: stacktrace
+   4/10 Test  #4: stacktrace .......................   Passed    0.04 sec
+        Start  5: stl_logging
+   5/10 Test  #5: stl_logging ......................   Passed    0.04 sec
+        Start  6: symbolize
+   6/10 Test  #6: symbolize ........................   Passed    0.06 sec
+        Start  7: cmake_package_config_init
+   7/10 Test  #7: cmake_package_config_init ........   Passed    0.08 sec
+        Start  8: cmake_package_config_generate
+   8/10 Test  #8: cmake_package_config_generate ....***Failed    3.36 sec
+        Start  9: cmake_package_config_build
+  Failed test dependencies: cmake_package_config_generate
+   9/10 Test  #9: cmake_package_config_build .......***Not Run   0.00 sec
+        Start 10: cmake_package_config_cleanup
+  10/10 Test #10: cmake_package_config_cleanup .....***Failed    0.03 sec
+  
+  70% tests passed, 3 tests failed out of 10
+  
+  Total Test time (real) =   4.27 sec
+  
+  The following tests FAILED:
+  	  8 - cmake_package_config_generate (Failed)
+  	  9 - cmake_package_config_build (Not Run)
+  	 10 - cmake_package_config_cleanup (Failed)
+  Errors while running CTest
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: The command "setlocal
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: C:\Users\840\Downloads\cmake-3.16.0-win64-x64\cmake-3.16.0-win64-x64\bin\ctest.exe --force-new-ctest-process -C Debug
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: if %errorlevel% neq 0 goto :cmEnd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :cmEnd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :cmErrorLevel
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: exit /b %1
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :cmDone
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: if %errorlevel% neq 0 goto :VCEnd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :VCEnd" exited with code 8.

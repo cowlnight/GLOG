@@ -1,0 +1,10 @@
+Upload files:
+0	Configure.xml
+1	Build.xml
+2	Test.xml
+3	Done.xml
+	Upload file: C:/Users/840/Downloads/glog-master/glog-master/build2/Testing/20191130-1555/Configure.xml to DESKTOP-C0459JH___Win32-MSBuild___20191130-1555-Continuous___XML___Configure.xml
+   Error when uploading file: C:/Users/840/Downloads/glog-master/glog-master/build2/Testing/20191130-1555/Configure.xml
+   Error message was: 
+   Problems when submitting via HTTP
+

@@ -1,0 +1,12 @@
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/glogd.lib
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/include/glog/logging.h
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/include/glog/raw_logging.h
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/include/glog/stl_logging.h
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/include/glog/vlog_is_on.h
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/include/glog/log_severity.h
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/pkgconfig/libglog.pc
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/cmake/glog/glog-modules.cmake
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/cmake/glog/glog-config.cmake
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/cmake/glog/glog-config-version.cmake
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/cmake/glog/glog-targets.cmake
+C:/Users/840/Downloads/cmake-3.16.0-win64-x64/cmake-3.16.0-win64-x64/lib/cmake/glog/glog-targets-debug.cmake

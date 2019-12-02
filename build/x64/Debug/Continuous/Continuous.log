@@ -1,0 +1,61 @@
+﻿     Site: DESKTOP-C0459JH
+     Build name: Win32-MSBuild
+  Create new tag: 20191130-1555 - Continuous
+     Updating the repository: C:/Users/840/Downloads/glog-master/glog-master
+  Cannot find UpdateCommand  configuration key.
+  Configure project
+     Each . represents 1024 bytes of output
+      . Size of output: 0K
+  Build project
+     Each symbol represents 1024 bytes of output.
+     '!' represents an error and '*' a warning.
+      .!! Size of output: 3K
+     7 Compiler errors
+  Error(s) when building project
+     1 Compiler warnings
+  Test project C:/Users/840/Downloads/glog-master/glog-master/build2
+        Start  1: demangle
+   1/10 Test  #1: demangle .........................   Passed    0.02 sec
+        Start  2: logging
+   2/10 Test  #2: logging ..........................   Passed    0.42 sec
+        Start  3: signalhandler
+   3/10 Test  #3: signalhandler ....................   Passed    0.02 sec
+        Start  4: stacktrace
+   4/10 Test  #4: stacktrace .......................   Passed    0.02 sec
+        Start  5: stl_logging
+   5/10 Test  #5: stl_logging ......................   Passed    0.02 sec
+        Start  6: symbolize
+   6/10 Test  #6: symbolize ........................   Passed    0.02 sec
+        Start  7: cmake_package_config_init
+   7/10 Test  #7: cmake_package_config_init ........   Passed    0.08 sec
+        Start  8: cmake_package_config_generate
+   8/10 Test  #8: cmake_package_config_generate ....***Failed    2.49 sec
+        Start  9: cmake_package_config_build
+  Failed test dependencies: cmake_package_config_generate
+   9/10 Test  #9: cmake_package_config_build .......***Not Run   0.00 sec
+        Start 10: cmake_package_config_cleanup
+  10/10 Test #10: cmake_package_config_cleanup .....***Failed    0.05 sec
+  
+  70% tests passed, 3 tests failed out of 10
+  
+  Total Test time (real) =   3.18 sec
+  
+  The following tests FAILED:
+  	  8 - cmake_package_config_generate (Failed)
+  	  9 - cmake_package_config_build (Not Run)
+  	 10 - cmake_package_config_cleanup (Failed)
+  Performing coverage
+   Cannot find any coverage files. Ignoring Coverage request.
+  Submit files
+     SubmitURL: http://
+     Submit failed, waiting 5 seconds...
+     Retry submission: Attempt 1 of 3
+     Submit failed, waiting 5 seconds...
+     Retry submission: Attempt 2 of 3
+     Submit failed, waiting 5 seconds...
+     Retry submission: Attempt 3 of 3
+     Error when uploading file: C:/Users/840/Downloads/glog-master/glog-master/build2/Testing/20191130-1555/Configure.xml
+     Error message was: 
+     Problems when submitting via HTTP
+  Errors while running CTest
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(209,5): error MSB6006: "cmd.exe" exited with code 73.

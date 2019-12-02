@@ -1,0 +1,17 @@
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/Experimental.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/Continuous.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/Nightly.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/glog.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/logging_unittest.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/stl_logging_unittest.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/symbolize_unittest.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/PACKAGE.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/demangle_unittest.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/stacktrace_unittest.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/utilities_unittest.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/signalhandler_unittest.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/RUN_TESTS.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/INSTALL.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/ALL_BUILD.dir
+C:/Users/840/Downloads/glog-master/glog-master/build2/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,4 @@
+2:logging
+8:cmake_package_config_generate
+9:cmake_package_config_build
+10:cmake_package_config_cleanup
