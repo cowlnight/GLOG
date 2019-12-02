@@ -77,10 +77,10 @@ google::SetLogDestination(google::GLOG_INFO,"./myInfo");
 * Type
 Serious level: FATAL>ERROR>WARNING>INFO
 ```
-    LOG(INFO) << "I am INFO!";              //0
-	LOG(WARNING) << "I am WARNING!";    //1
-	LOG(ERROR) << "I am ERROR!";        //2
-	LOG(FATAL) << "I am FATAL!";        //3
+LOG(INFO) << "I am INFO!";          //0
+LOG(WARNING) << "I am WARNING!";    //1
+LOG(ERROR) << "I am ERROR!";        //2
+LOG(FATAL) << "I am FATAL!";        //3
 ```
 ---
 Reference:
