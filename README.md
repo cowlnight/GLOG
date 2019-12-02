@@ -70,9 +70,8 @@ Use Example
 ---
 * Initialization
 ```
-google::InitGoogleLogging((const char *)argv[0]);  //Inital (filename)
-google::SetLogDestination(google::GLOG_INFO,"./myInfo");
-// save path
+google::InitGoogleLogging((const char *)argv[0]);           //Inital (filename)
+google::SetLogDestination(google::GLOG_INFO,"./myInfo");    // save path
 ```
 * Type
 Serious level: FATAL>ERROR>WARNING>INFO
